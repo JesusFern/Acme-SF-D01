@@ -22,7 +22,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-student1" action="https://github.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-student4" action="https://github.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-student2" action="https://github.com/"/>
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link-student2" action="https://www.us.es/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-student5" action="https://www.us.es/"/>
 			<acme:menu-suboption code="master.menu.anonymous.all-jobs" action="/any/job/list"/>			
 			<acme:menu-suboption code="master.menu.anonymous.list-shouts" action="/any/shout/list"/>
 		</acme:menu-option>
